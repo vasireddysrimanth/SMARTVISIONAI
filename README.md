@@ -14,7 +14,7 @@ A real-time Android computer vision application powered by **TensorFlow Lite** a
 
 ## 📱 Demo
 
-![VisionAI Demo](https://raw.githubusercontent.com/vasireddy-srimanth/VisionAI/main/app/src/main/assets/demo.png)
+![VisionAI Demo](https://raw.githubusercontent.com/vasireddysrimanth/SMARTVISIONAI/main/app/src/main/assets/demo.png)
 
 ---
 
