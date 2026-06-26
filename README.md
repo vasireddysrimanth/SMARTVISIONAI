@@ -180,7 +180,7 @@ MIT License — feel free to use, modify, and distribute.
 Android Engineer · On-Device AI · Jetpack Compose · KMP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vasireddy-srimanth)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)]([https://github.com/vasireddysrimanth](https://github.com/vasireddysrimanth))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vasireddysrimanth)
 
 ---
 
